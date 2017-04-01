@@ -1,0 +1,2 @@
+# ClipboardReplace
+Copy, replace, paste.
