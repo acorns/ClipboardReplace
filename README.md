@@ -12,5 +12,6 @@ Copy stuff to clipboard and use this program to find+replace text on your clipbo
 ### Screenshots
 *(I use a high-contrast OS theme. this program itself is **not** themed)*
 
-![http://i.imgur.com/j0RpijQt](http://i.imgur.com/j0RpijQ.png)
-![http://i.imgur.com/mJTmy25.png](http://i.imgur.com/mJTmy25t.jpg)
+[Screenshot 1](http://i.imgur.com/j0RpijQ.png)
+
+[Screenshot 2](http://i.imgur.com/mJTmy25.jpg)
